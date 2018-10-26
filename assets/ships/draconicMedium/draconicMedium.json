@@ -17,8 +17,10 @@
       "allowsRotation": true
     }
   ],
-  "rigidBodies": [
+  "rigidBody":
     {
+      "name": "mediumDraconicBody",
+      "imagePath": "DestinationSol/modules/core/assets/ships/draconicMedium/draconicMedium.png",
       "origin": {
         "x": 0.5,
         "y": 0.5
@@ -260,8 +262,7 @@
           ]
         }
       ]
-    }
-  ],
+    },
   "dynamicObjects": [],
   "particleEmitters": [
     {
