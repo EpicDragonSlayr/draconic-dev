@@ -12,7 +12,7 @@
         "guard":
         {
           "hull": "core:imperialSmall",
-          "items": "core:advancedArmor core:advancedShield deepspace:aliengun",
+          "items": "core:advancedArmor core:advancedShield core:blaster",
           "density": 4
         }
       }
