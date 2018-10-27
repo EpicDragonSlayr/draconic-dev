@@ -1,6 +1,6 @@
 {
-  "hull": "core:station",
-  "items": "core:gun core:gun",
+  "hull": "draconic:draconicStation",
+  "items": "draconic:scorcher draconic:scorcher",
 
   "guard": {
     "hull": "core:imperialBig",

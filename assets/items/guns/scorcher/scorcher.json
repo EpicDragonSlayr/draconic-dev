@@ -7,7 +7,7 @@
   "reloadTime": 2.0,
   "price": 250,
   "clipName": "draconic:fireballClip",
-  "gunLength": 0.35,
+  "gunLength": 0.30,
   "texLenPerc": 0.87,
   "displayName": "Scorcher",
   "shootSounds": [

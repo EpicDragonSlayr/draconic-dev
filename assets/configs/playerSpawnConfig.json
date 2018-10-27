@@ -1,7 +1,7 @@
 {
   "Draconic Medium": {
     "hull": "draconic:draconicMedium",
-    "items": "6*rep core:mediumArmor-1 core:bigShield-1 core:blaster-1",
+    "items": "6*rep core:mediumArmor-1 core:bigShield-1 draconic:scorcher-1",
     "money": 300
   },
   "Draconic Large": {
@@ -13,5 +13,10 @@
     "hull": "draconic:draconicCapital",
     "items": "50*rep core:advancedArmor-1 core:advancedShield-1 draconic:scorcher-1 draconic:scorcher-2",
     "money": 1000
+  },
+  "Draconic Tiny": {
+    "hull": "draconic:draconicTiny",
+    "items": "3*rep core:lightArmor-1 core:smallShield-1 draconic:scorcher-1",
+    "money": 150
   }
 }
