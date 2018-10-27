@@ -8,5 +8,10 @@
     "hull": "draconic:draconicLarge",
     "items": "20*rep core:advancedArmor-1 core:advancedShield-1 draconic:scorcher-1 draconic:scorcher-2",
     "money": 500
+  },
+  "Draconic Capital": {
+    "hull": "draconic:draconicCapital",
+    "items": "50*rep core:advancedArmor-1 core:advancedShield-1 draconic:scorcher-1 draconic:scorcher-2",
+    "money": 1000
   }
 }
