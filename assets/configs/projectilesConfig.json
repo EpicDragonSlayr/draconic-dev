@@ -1,6 +1,6 @@
 {
   "fireball": {
-    "dmg": 5,
+    "dmg": 35,
     "dmgType": "energy",
     "spdLen": 6,
     "tex": "draconic:fireball",
